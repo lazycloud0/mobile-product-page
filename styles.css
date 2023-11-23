@@ -157,7 +157,7 @@ body {
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
-  background-color: orange;
+  background-color: var(--orange);
   text-align: center;
   font-weight: 700;
   font-size: 1rem;
